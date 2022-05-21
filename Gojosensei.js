@@ -242,7 +242,7 @@ const reply = (teks) => {
 	
 	  //antilink\\
         if (db.data.chats[m.chat].antilink) {
-        if (budy.match(`chat.whatsapp.com, youtube.com, google.com, .com`)) {
+        if (budy.match(`chat.whatsapp.com`(`.com`)) {
         reply(`「 ANTI LINK 」\n\nYou have been detected sending a group link, sorry you will be kicked !`)
         if (!isBotAdmins) return reply(`I Am Not An Admin, How Could I Kick Somebody Who Send Link 😒`)
         let gclink = (`https://chat.whatsapp.com/`+await GojoMdNx.groupInviteCode(m.chat))
@@ -3281,7 +3281,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Shwe are Unbowed! Unbent!! Unbroken!!!👌
+┌┤✑  we are Unbowed! Unbent!! Unbroken!!!👌
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
