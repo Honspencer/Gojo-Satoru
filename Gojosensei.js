@@ -200,11 +200,11 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` REVOLUTION EMPIRE`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` REVOLUTION EMPIRE`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://media.discordapp.net/attachments/815702335325339658/977608385711210566/images_1_28.jpeg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` REVOLUTION EMPIRE`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` REVOLUTION EMPIRE`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://media.discordapp.net/attachments/815702335325339658/977608385711210566/images_1_28.jpeg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
