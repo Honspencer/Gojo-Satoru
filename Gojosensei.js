@@ -1762,7 +1762,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 RVLE MYSTICAL CLAN🎉 」\n\n${text}`
+                      let txt = `「 RVLE MYSTICAL CLAN🎮 」\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -3281,7 +3281,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Shashi burina thaicho🎉
+┌┤✑  Shwe are Unbowed! Unbent! Unbroken🎉
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
