@@ -3303,7 +3303,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
+                                displayText: 'Discord🔖',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3363,7 +3363,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
+                                displayText: 'Discord🔖',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3794,7 +3794,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'grupmenu': case 'groupmenu':
@@ -3823,7 +3823,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}checkvote
 ┃╠${prefix}delvote
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'rpgmenu':
@@ -3894,7 +3894,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}math [mode]
 ┃╠ ${prefix}suitpvp [tag]
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'ownermenu':
@@ -3923,7 +3923,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}checkvote
 ┃╠${prefix}delvote
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'downloadmenu':
 var unicorn = await getBuffer(picak+'Downloader Menu')
@@ -3938,7 +3938,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}joox [query]
 ┃╠${prefix}soundcloud [url]
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'searchmenu':
 var unicorn = await getBuffer(picak+'Search Menu')
@@ -3957,7 +3957,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}ringtone [query]
 ┃╠${prefix}webtoon [query]
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Discord🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'randommenu':
 var unicorn = await getBuffer(picak+'Random Menu')
