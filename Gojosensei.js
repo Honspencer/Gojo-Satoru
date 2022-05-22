@@ -1777,7 +1777,7 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Script🔖',
+                                    displayText: 'Discord🔖',
                                     url: `${sc}`
                                 }
                             }, {
