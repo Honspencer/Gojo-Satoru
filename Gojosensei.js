@@ -3549,7 +3549,7 @@ case 'allmenu': {
 ┃╠ ${prefix}setppbot [image]
 ┃╠ ${prefix}setexif
 ┃╠══✪「 GROUP 」 ☯︎      
-┃╠${prefix}grouplink
+┃╠${prefix}cap
 ┃╠${prefix}ephemeral [option]
 ┃╠${prefix}setgcpp [image]
 ┃╠${prefix}setname [text]
@@ -3679,7 +3679,7 @@ case 'allmenu': {
 ┃╠ ${prefix}suitpvp [tag]
 ┃╠═══✪「 CONVERTER 」 ☯︎
 ┃╠ ${prefix}toimage [reply stick]
-┃╠ ${prefix}sticker [reply img|gif]
+┃╠ ${prefix}flag [reply]
 ┃╠ ${prefix}emojimix [moji+moji]
 ┃╠ ${prefix}tovideo [reply img]
 ┃╠ ${prefix}togif [reply stick]
@@ -3802,7 +3802,7 @@ var unicorn = await getBuffer(picak+'Group Menu')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔═✪「 GROUP 」	        
-┃╠${prefix}grouplink
+┃╠${prefix}cap
 ┃╠${prefix}ephemeral [option]
 ┃╠${prefix}setgcpp [image]
 ┃╠${prefix}setname [text]
@@ -3902,7 +3902,7 @@ var unicorn = await getBuffer(picak+'Owner Menu')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔═✪「 OWNER 」	        
-┃╠${prefix}grouplink
+┃╠${prefix}cap
 ┃╠${prefix}ephemeral [option]
 ┃╠${prefix}setgcpp [image]
 ┃╠${prefix}setname [text]
@@ -4050,7 +4050,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 CONVERTER 」	        
 ┃╠ ${prefix}toimage [reply stick]
-┃╠ ${prefix}sticker [reply img|gif]
+┃╠ ${prefix}flag [reply]
 ┃╠ ${prefix}emojimix [moji+moji]
 ┃╠ ${prefix}tovideo [reply img]
 ┃╠ ${prefix}togif [reply stick]
