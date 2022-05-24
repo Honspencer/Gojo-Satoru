@@ -1230,14 +1230,14 @@ GojoMdNx.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${san
 					GojoMdNx.sendMessage(from, { text: `Character Check : ${q}\nAnswer : *${taky}*` }, { quoted: m })
 				     break
                     case 'stupid':
-      case 'foolish':
+      case 'nuller':
       case 'smart':
-      case 'idiot':
+      case 'spamming':
       case 'gay':
       case 'lesbi':
       case 'bastard':
       case 'stubble':
-      case 'dog':
+      case 'weakling':
       case 'fuck':
       case 'ape':
       case 'noob':
@@ -3654,7 +3654,7 @@ case 'allmenu': {
 ┃╠ ${prefix}hot
 ┃╠ ${prefix}sexy
 ┃╠ ${prefix}kind
-┃╠ ${prefix}idiot
+┃╠ ${prefix}spamming
 ┃╠ ${prefix}handsome
 ┃╠ ${prefix}beautiful
 ┃╠ ${prefix}cute
@@ -3662,7 +3662,7 @@ case 'allmenu': {
 ┃╠ ${prefix}lesbian
 ┃╠ ${prefix}noob
 ┃╠ ${prefix}bastard
-┃╠ ${prefix}foolish
+┃╠ ${prefix}nuller
 ┃╠ ${prefix}nerd
 ┃╠ ${prefix}asshole
 ┃╠ ${prefix}gay
@@ -3878,7 +3878,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}lesbian
 ┃╠ ${prefix}noob
 ┃╠ ${prefix}bastard
-┃╠ ${prefix}foolish
+┃╠ ${prefix}nuller
 ┃╠ ${prefix}nerd
 ┃╠ ${prefix}asshole
 ┃╠ ${prefix}gay
