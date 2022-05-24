@@ -1168,7 +1168,7 @@ GojoMdNx.sendMessage(from, { text: `Question : Is ${q}\nAnswer : ${kah}` }, { qu
 					break
 					            case 'what':
 				if (!text) return replay(`Use Text, Example : ${prefix + command} he married `)
-					const lel = [`Ask Your Gf`, `I Dont Know`, `I Don't Know, Ask Your Father`]
+					const lel = [`Ask Babalawo😒`, `I Dont Know`, `I Don't Know, Ask Your Google🤪`]
 					const kahk = lel[Math.floor(Math.random() * lel.length)]
 GojoMdNx.sendMessage(from, { text: `Question : What ${q}\nAnswer : ${kahk}` }, { quoted: m })
 
