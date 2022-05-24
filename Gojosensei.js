@@ -1235,7 +1235,7 @@ GojoMdNx.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${san
       case 'spamming':
       case 'gay':
       case 'lesbi':
-      case 'bastard':
+      case 'lag cheat':
       case 'stubble':
       case 'weakling':
       case 'fuck':
@@ -3668,7 +3668,7 @@ case 'allmenu': {
 ┃╠ ${prefix}gay
 ┃╠ ${prefix}smart
 ┃╠ ${prefix}stubble
-┃╠ ${prefix}dog
+┃╠ ${prefix}weakling
 ┃╠ ${prefix}horny
 ┃╠ ${prefix}cunt
 ┃╠ ${prefix}wibu
@@ -3884,7 +3884,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}gay
 ┃╠ ${prefix}smart
 ┃╠ ${prefix}stubble
-┃╠ ${prefix}dog
+┃╠ ${prefix}weakling
 ┃╠ ${prefix}horny
 ┃╠ ${prefix}cunt
 ┃╠ ${prefix}wibu
