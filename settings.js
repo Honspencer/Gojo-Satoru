@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
+global.owner = ['2348151219027']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
 global.ownername = '🐦 Revolution Empire'
