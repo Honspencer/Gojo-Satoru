@@ -3661,7 +3661,7 @@ case 'allmenu': {
 ┃╠ ${prefix}pretty
 ┃╠ ${prefix}lesbian
 ┃╠ ${prefix}noob
-┃╠ ${prefix}bastard
+┃╠ ${prefix}lag cheat
 ┃╠ ${prefix}nuller
 ┃╠ ${prefix}nerd
 ┃╠ ${prefix}asshole
@@ -3877,7 +3877,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}pretty
 ┃╠ ${prefix}lesbian
 ┃╠ ${prefix}noob
-┃╠ ${prefix}bastard
+┃╠ ${prefix}lag cheat
 ┃╠ ${prefix}nuller
 ┃╠ ${prefix}nerd
 ┃╠ ${prefix}asshole
